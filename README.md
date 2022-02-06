@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Leonardo Gil Neves 😁
 
 ![Leonardo Github stats](https://github-readme-stats.vercel.app/api?username=leonardogneves&show_icons=true&theme=dracula)
-![Leonardo Github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogneves&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogneves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que mais utilizo:
 <div style="display: inline_block"><br/>
   <img align="center" alt="badges" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
