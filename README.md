@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Leonardo Gil Neves 😁
 
 
-![Leonardo Github stats](https://github-readme-stats.vercel.app/api?username=leonardogneves&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogneves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Leonardo Github stats](https://github-readme-stats.vercel.app/api?username=leonardogneves&show_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogneves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
