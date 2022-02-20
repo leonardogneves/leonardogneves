@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leonardo Neves</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate frontend developer from Brazil.</h3>
+<h5 align="center"> [Clique direito e traduza para português.]</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardogneves&label=Profile%20views&color=0e75b6&style=flat" alt="leonardogneves" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=leonardogneves&label=Profile%20views&color=0e75b6&style=flat" alt="leonardogneves" /> </p>
 
 - 🔭 I’m currently working on **Pixel Art Social Network**
 
