@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonardo Neves</h1>
+<h1 align="center">Hi 👋🏻, I'm Leonardo Neves</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 <h5 align="center"> [Clique direito e traduza para português.]</h5>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, JQUERY, ANGULAR, REACT-JS and NODE-JS.**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝🏻 I’m looking for help with **Javascript**
 
 - 💬 Ask me about **HTML, CSS and JAVASCRIPT**
 
