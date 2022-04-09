@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Pixel Art Social Network**
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, JQUERY, ANGULAR, C# and .NET.**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, ANGULAR, BOOTSTRAP and TYPESCRIPT.**
 
 - 🤝🏻 I’m looking for help with **Javascript**
 
