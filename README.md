@@ -4,13 +4,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=leonardogneves&label=Profile%20views&color=0e75b6&style=flat" alt="leonardogneves" /> </p>
 
-- 🔭 I’m currently working on **Pixel Art Social Network**
+- 🔭 I’m currently working on **Pokemon App**
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, ANGULAR, BOOTSTRAP and TYPESCRIPT.**
+- 🌱 I’m currently learning **C#, .NET, TYPESCRIPT.**
 
-- 🤝🏻 I’m looking for help with **Javascript**
-
-- 💬 Ask me about **HTML, CSS and JAVASCRIPT**
+- 💬 Ask me about **HTML, SCSS and JAVASCRIPT**
 
 - 📫 How to reach me **leonardogilneves@gmail.com**
 
