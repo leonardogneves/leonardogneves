@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#, .NET, TYPESCRIPT.**
 
-- 💬 Ask me about **HTML, SCSS and JAVASCRIPT**
+- 💬 Ask me about **ANGULAR**
 
 - 📫 How to reach me **leonardogilneves@gmail.com**
 
