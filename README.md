@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Pokemon App**
 
-- 🌱 I’m currently learning **C#, .NET, TYPESCRIPT.**
+- 🌱 I’m currently learning **C#, .NET, TYPESCRIPT, DART**
 
 - 💬 Ask me about **ANGULAR**
 
