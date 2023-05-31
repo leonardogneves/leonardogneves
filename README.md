@@ -4,9 +4,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=leonardogneves&label=Profile%20views&color=0e75b6&style=flat" alt="leonardogneves" /> </p>
 
-- 🔭 I’m currently working on **Movies Api**
+- 🔭 I’m currently working on **Noth specific**
 
-- 🌱 I’m currently learning **C#, .NET, TYPESCRIPT, DART, FLUTTER**
+- 🌱 I’m currently learning **C#, .NET, TYPESCRIPT, FLUTTER, POSTGRESQL**
 
 - 💬 Ask me about **ANGULAR**
 
